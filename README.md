@@ -11,12 +11,12 @@ CMSC391/COAR463 Game Development - Minor Project 2
  
 | Folder | Description |
 |---|---|
-| [Ghost Game](https://github.com/cmsc-vcu/gamedev-fa2023-mp2-im-scared/tree/d2fd58ce845752d1ec0e97eeeaf7f5acfb26a006/Ghost%20Game) | Main project folder |
-| [Assets](https://github.com/cmsc-vcu/gamedev-fa2023-mp2-im-scared/tree/d2fd58ce845752d1ec0e97eeeaf7f5acfb26a006/Ghost%20Game/Assets) | Animations, audio, prefabs, etc. |
-| [PlayerInput](https://github.com/cmsc-vcu/gamedev-fa2023-mp2-im-scared/tree/71d01148953312b4f543e55815257ff5308287a7/Ghost%20Game/Assets/PlayerInput) | Player input system settings |
-| [Scenes](https://github.com/cmsc-vcu/gamedev-fa2023-mp2-im-scared/tree/d2fd58ce845752d1ec0e97eeeaf7f5acfb26a006/Ghost%20Game/Assets/Scenes) | All game scenes |
-| [Packages](https://github.com/cmsc-vcu/gamedev-fa2023-mp2-im-scared/tree/d2fd58ce845752d1ec0e97eeeaf7f5acfb26a006/Ghost%20Game/Packages) | Default packages and installed package |
-| [ProjectSettings](https://github.com/cmsc-vcu/gamedev-fa2023-mp2-im-scared/tree/d2fd58ce845752d1ec0e97eeeaf7f5acfb26a006/Ghost%20Game/ProjectSettings) | Project settings auto-saved by Unity |
+| [Ghost Game](Ghost%20Game) | Main project folder |
+| [Ghost Game/Assets](Ghost%20Game/Assets) | Animations, audio, prefabs, etc. |
+| [Ghost Game/Assets/PlayerInput](Ghost%20Game/Assets/PlayerInput) | Player input system settings |
+| [Ghost Game/Assets/Scenes](Ghost%20Game/Assets/Scenes) | All game scenes |
+| [Ghost Game/Packages](Ghost%20Game/Packages) | Default packages and installed package |
+| [Ghost Game/ProjectSettings](Ghost%20Game/ProjectSettings) | Project settings auto-saved by Unity |
 | [name](link) | description |
 | [name](link) | description |
 | [name](link) | description |
