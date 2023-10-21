@@ -19,4 +19,6 @@ CMSC391/COAR463 Game Development - Minor Project 2
 | [name](link) | description |
 | [name](link) | description |
 
-**Credits:** 
+**Credits:**  
+Audio  
+Art Assets  
