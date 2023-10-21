@@ -5,10 +5,12 @@ CMSC391/COAR463 Game Development - Minor Project 2
 **Team Members:** Grace Johnson, Olivia McCabe  
 **Project description:**  
 
+# Play
 **[WebGL Link](https://play.unity.com/)**  
 **Game Instructions:**  
 - Insert gameplay screenshot here!!!!  
- 
+
+# Code
 | Folder | Description |
 |---|---|
 | [Ghost Game](Ghost%20Game) | Main project folder |
@@ -22,6 +24,6 @@ CMSC391/COAR463 Game Development - Minor Project 2
 | [name](link) | description |
 | [name](link) | description |
 
-**Credits:**  
+# Credits  
 Audio  
 Art Assets  
