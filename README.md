@@ -1,6 +1,14 @@
-# gamedev-fa2023-mp2-template
+# gamedev-fa2023-mp2
+CMSC391/COAR463 Game Development - Minor Project 2
 
-This is a template repo for Intro to Game Dev, Fall 2023, Minor Project 2.
-See:
-  <https://virginiacommonwealth.instructure.com/courses/86151/assignments/735642>
-  
+**Project title:**   
+**Team Members:** Grace Johnson, Olivia McCabe  
+**Project description:**  
+
+**[WebGL Link](https://play.unity.com/)**  
+ 
+| Folder | Description |
+|---|---|
+| []() | Main project folder |
+
+
