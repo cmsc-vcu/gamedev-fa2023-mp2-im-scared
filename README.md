@@ -6,9 +6,11 @@ CMSC391/COAR463 Game Development - Minor Project 2
 **Project description:**  
 
 **[WebGL Link](https://play.unity.com/)**  
+**Game Instructions:**  
+- Insert gameplay screenshot here!!!!  
  
 | Folder | Description |
 |---|---|
 | []() | Main project folder |
 
-
+**Credits:** 
