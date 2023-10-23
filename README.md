@@ -17,11 +17,13 @@
 | [Ghost Game/Assets/Scenes](Ghost%20Game/Assets/Scenes) | All game scenes |
 | [Ghost Game/Packages](Ghost%20Game/Packages) | Default packages and installed package |
 | [Ghost Game/ProjectSettings](Ghost%20Game/ProjectSettings) | Project settings auto-saved by Unity |
-| [name](link) | description |
+| [Ghost Game/Assets/Art](Ghost%20Game/Assets/Art) | Art assets for player and environment |
 | [name](link) | description |
 | [name](link) | description |
 | [name](link) | description |
 
 # Credits  
-Audio  
-Art Assets  
+**Art:**  
+[Player and environment assets](Ghost%20Game/Assets/Art) - Olivia McCabe  
+
+**Audio:**  
