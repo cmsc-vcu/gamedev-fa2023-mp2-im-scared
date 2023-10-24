@@ -1,5 +1,5 @@
 # CMSC391/COAR463 Game Development - Minor Project 2
-**Project title:**   
+**Project title:** Ghost Game   
 **Team Members:** Grace Johnson, Olivia McCabe  
 **Project description:**  
 
