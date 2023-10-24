@@ -6,7 +6,7 @@
 # Play
 **[WebGL Link](https://play.unity.com/)**  
 **Game Instructions:**  
-- Insert gameplay screenshot here!!!!  
+- Insert gameplay recording here!!!!  
 
 # Code
 | Folder | Description |
