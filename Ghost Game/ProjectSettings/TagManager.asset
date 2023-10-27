@@ -16,6 +16,7 @@ TagManager:
   - TooManyPrompt
   - Manhole2
   - VirtualCamera
+  - LightTrigger
   layers:
   - Default
   - TransparentFX
