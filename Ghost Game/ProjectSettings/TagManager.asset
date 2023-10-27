@@ -17,6 +17,7 @@ TagManager:
   - Manhole2
   - VirtualCamera
   - LightTrigger
+  - EscapeSewer
   layers:
   - Default
   - TransparentFX
