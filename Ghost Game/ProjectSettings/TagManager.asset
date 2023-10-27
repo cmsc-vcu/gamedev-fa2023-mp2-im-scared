@@ -14,6 +14,8 @@ TagManager:
   - Wall
   - Manhole
   - TooManyPrompt
+  - Manhole2
+  - VirtualCamera
   layers:
   - Default
   - TransparentFX
