@@ -10,6 +10,7 @@ TagManager:
   - EnemyZone
   - PickupTag
   - ScoreKeeper
+  - LivesCounter
   layers:
   - Default
   - TransparentFX
