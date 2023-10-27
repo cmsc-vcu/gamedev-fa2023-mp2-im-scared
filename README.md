@@ -1,10 +1,11 @@
 # CMSC391/COAR463 Game Development - Minor Project 2
 **Project title:** Ghost Game   
 **Team Members:** Grace Johnson, Olivia McCabe  
-**Project description:**  
+**Project description:** A Halloween inspired game where you get to experience life as a timid ghost haunting the neighborhood. 
 
 # Play
 **[WebGL Link](https://play.unity.com/mg/other/ghost_game)**  
+**[Gameplay Recording](https://drive.google.com/file/d/1Y109776BMKpSqPa52rm1J9LnRHS-iTGI/view?usp=sharing)**  
 
 **Instructions:**  
 - Use the left and right arrow keys to move.
