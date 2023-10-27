@@ -12,6 +12,8 @@ TagManager:
   - ScoreKeeper
   - LivesCounter
   - Wall
+  - Manhole
+  - TooManyPrompt
   layers:
   - Default
   - TransparentFX
