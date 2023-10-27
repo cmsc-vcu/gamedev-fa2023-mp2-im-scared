@@ -4,9 +4,14 @@
 **Project description:**  
 
 # Play
-**[WebGL Link](https://play.unity.com/)**  
+**[WebGL Link](https://play.unity.com/mg/other/ghost_game)**  
+
 **Game Instructions:**  
-- Insert gameplay recording here!!!!  
+- Use the left and right arrow keys to move.
+- Hold the spacebar to flatten down and avoid cats (this can only be done in certain areas!).
+- Collect orbs by moving through them.
+- If it seems like there is too many cats in your way, you might be standing above an underground tunnel. Use the down arrow key to enter the tunnel and the up arrow to exit.
+- When you collect all seven orbs, you have won!
 
 # Code
 | Folder | Description |
@@ -19,11 +24,10 @@
 | [Ghost Game/Assets/TextMesh Pro](Ghost%20Game/Assets/TextMesh%20Pro) | TextMesh Pro documentation, fonts, etc. |
 | [Ghost Game/Packages](Ghost%20Game/Packages) | Default packages and installed packages |
 | [Ghost Game/ProjectSettings](Ghost%20Game/ProjectSettings) | Project settings auto-saved by Unity |
-| [name](link) | description |
-| [name](link) | description |
 
 # Credits  
 **Art:**  
 [Player and environment assets](Ghost%20Game/Assets/Art) - Olivia McCabe  
 
 **Audio:**  
+
