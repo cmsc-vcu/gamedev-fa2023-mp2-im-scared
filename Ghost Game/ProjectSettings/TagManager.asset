@@ -11,6 +11,7 @@ TagManager:
   - PickupTag
   - ScoreKeeper
   - LivesCounter
+  - Wall
   layers:
   - Default
   - TransparentFX
