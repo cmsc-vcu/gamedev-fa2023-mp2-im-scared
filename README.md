@@ -30,4 +30,5 @@
 [Player and environment assets](Ghost%20Game/Assets/Art) - Olivia McCabe  
 
 **Audio:**  
+[Music](Ghost%20Game/Assets/Spooky%20Soundtrack%20-%20T.C.%20Edwards) - [Spooky Soundtrack by T.C. Edwards](https://assetstore.unity.com/packages/audio/music/spooky-soundtrack-183507)
 
