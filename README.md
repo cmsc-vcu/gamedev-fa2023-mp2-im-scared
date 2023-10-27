@@ -6,7 +6,7 @@
 # Play
 **[WebGL Link](https://play.unity.com/mg/other/ghost_game)**  
 
-**Game Instructions:**  
+**Instructions:**  
 - Use the left and right arrow keys to move.
 - Hold the spacebar to flatten down and avoid cats (this can only be done in certain areas!).
 - Collect orbs by moving through them.
