@@ -8,6 +8,8 @@ TagManager:
   - Enemy
   - SafeZone
   - EnemyZone
+  - PickupTag
+  - ScoreKeeper
   layers:
   - Default
   - TransparentFX
